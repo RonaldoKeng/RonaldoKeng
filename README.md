@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @RonaldoKeng and I study at UNSW in Sydney, Australia.
-- 👀 I’m involved with entrepreneurial education and TEDx!
-- 🧑‍💻 Founded SydneyHacks, an overnight hackathon to rob high school kids of sleep!
+# Ronaldo Keng
+
+👋 Hi, I’m @RonaldoKeng and I study Actuarial Studies with a Co-op full scholarship at UNSW in Sydney, Australia.
+
+## About me:
+- 🏡 I grew up in Shanghai and moved to Sydney in 2016.
+- 🥳 I love playing basketball and having hot-pots!
+- 🧑‍💻 Founded [SydneyHacks](https://sydneyhacks.com.au/), an overnight hackathon to rob high school kids of sleep!
+- 👀 I’m also involved with [Generation Entrepreneur](https://generationentrepreneur.com.au/) and [TEDx](https://www.tedxyouthreddamhouse.com/).
+
+##  What I'm up to:
+- 🚀 Hustling hard to grow SydneyHacks! Let me know if you want an international collab :)
 - 🌱 Currently working towards a Data Science certificate from Harvard.
 - 💞️ I’m looking to collaborate on startup projects in EdTech.
 - 📫 How to reach me ... Send a message!
+
+## Before you go
+> “In a gentle way, you can shake the world.” - Mahatma Gandhi
+
+Keep doing good in the world!
 
 <!---
 RonaldoKeng/RonaldoKeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
