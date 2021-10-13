@@ -1,18 +1,18 @@
 # Ronaldo Keng
 
-👋 Hi, I’m @RonaldoKeng and I study Actuarial Studies with a Co-op full scholarship at UNSW in Sydney, Australia.
+👋 Hi, I’m @RonaldoKeng and I study Actuarial Studies with a full scholarship at UNSW in Sydney, Australia.
 
 ## About me:
 - 🏡 I grew up in Shanghai and moved to Sydney in 2016.
 - 🥳 I love playing basketball and having hot-pots!
 - 🧑‍💻 Founded [SydneyHacks](https://sydneyhacks.com.au/), an overnight hackathon to rob high school kids of sleep!
-- 👀 I’m also involved with [Generation Entrepreneur](https://generationentrepreneur.com.au/) and [TEDx](https://www.tedxyouthreddamhouse.com/).
+- 👀 I’m also involved with [Generation Entrepreneur](https://generationentrepreneur.com.au/) - which is awesome!
 
 ##  What I'm up to:
 - 🚀 Hustling hard to grow SydneyHacks! Let me know if you want an international collab :)
 - 🌱 Currently working towards a Data Science certificate from Harvard.
 - 💞️ I’m looking to collaborate on startup projects in EdTech.
-- 📫 How to reach me ... Send a message!
+- 📫 How to reach me ... Send a message or connect on [LinkedIn](https://www.linkedin.com/in/ronaldo-keng/)!
 
 ## Before you go
 > “In a gentle way, you can shake the world.” - Mahatma Gandhi
