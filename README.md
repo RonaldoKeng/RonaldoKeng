@@ -1,6 +1,6 @@
 # Ronaldo Keng
 
-👋 Hi, I’m @RonaldoKeng and I study Actuarial Studies with a full scholarship at UNSW in Sydney, Australia.
+👋 Hi, I’m @RonaldoKeng and I study Actuarial Studies (Co-op) at UNSW in Sydney, Australia.
 
 ## About me:
 - 🏡 I grew up in Shanghai and moved to Sydney in 2016.
